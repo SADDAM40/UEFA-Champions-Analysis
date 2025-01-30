@@ -1,5 +1,5 @@
 📖 Project Overview
-Using Tableau, this repository contains data analysis and visualizations of UEFA Champions League historical statistics (1992–2023). The goal is to explore trends in club/country rankings, 
+- Using Tableau, this repository contains data analysis and visualizations of UEFA Champions League historical statistics (1992–2023). The goal is to explore trends in club/country rankings, 
 goal statistics, player appearances, goals over time, and others. 
 
   Key Features:
